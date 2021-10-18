@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/tranl/App ban hang/GDien_11/app/src/main/res/drawable/bgimage_15.xml" value="0.18796296296296297" />
+        <entry key="..\:/Users/tranl/App ban hang/GDien_11/app/src/main/res/drawable/botron_button.xml" value="0.19814814814814816" />
+        <entry key="..\:/Users/tranl/App ban hang/GDien_11/app/src/main/res/drawable/botron_sp.xml" value="0.19814814814814816" />
+        <entry key="..\:/Users/tranl/App ban hang/GDien_11/app/src/main/res/drawable/but_h12.xml" value="0.1125" />
+        <entry key="..\:/Users/tranl/App ban hang/GDien_11/app/src/main/res/drawable/button_color.xml" value="0.1125" />
+        <entry key="..\:/Users/tranl/App ban hang/GDien_11/app/src/main/res/drawable/butvien11.xml" value="0.14907407407407408" />
+        <entry key="..\:/Users/tranl/App ban hang/GDien_11/app/src/main/res/drawable/cong.xml" value="0.19814814814814816" />
+        <entry key="..\:/Users/tranl/App ban hang/GDien_11/app/src/main/res/drawable/doimaubut14.xml" value="0.1125" />
+        <entry key="..\:/Users/tranl/App ban hang/GDien_11/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1125" />
+        <entry key="..\:/Users/tranl/App ban hang/GDien_11/app/src/main/res/layout/activity_h12.xml" value="0.1" />
+        <entry key="..\:/Users/tranl/App ban hang/GDien_11/app/src/main/res/layout/activity_main.xml" value="0.17" />
+        <entry key="..\:/Users/tranl/App ban hang/GDien_11/app/src/main/res/layout/hinh_12.xml" value="0.12" />
+        <entry key="..\:/Users/tranl/App ban hang/GDien_11/app/src/main/res/layout/hinh_13.xml" value="0.2" />
+        <entry key="..\:/Users/tranl/App ban hang/GDien_11/app/src/main/res/layout/hinh_14.xml" value="0.2" />
+        <entry key="..\:/Users/tranl/App ban hang/GDien_11/app/src/main/res/layout/hinh_15.xml" value="0.17" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
